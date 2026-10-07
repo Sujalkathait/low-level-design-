@@ -6,6 +6,16 @@ We have combined all **25 Core Topics** into this single, easy-to-read guide. Th
 
 ---
 
+## 🏛️ The 4 Pillars of Object-Oriented Programming (OOP)
+Before diving into the code, you must understand the 4 core concepts (pillars) of OOP. Every software design pattern is built on these!
+
+1. **Encapsulation (Data Hiding):** Bundling data (variables) and the methods that operate on them into a single unit (a class). Most importantly, it involves keeping the data private so outside code can't accidentally break it. *(Covered in Section 1)*
+2. **Abstraction (Simplicity):** Hiding the complex, hard-to-understand internal details of a system and only showing a simple interface to the user. Like driving a car—you use the steering wheel without needing to understand the internal combustion engine. *(Covered in Section 4)*
+3. **Inheritance (Reusability):** Allowing a new class to inherit properties and behaviors from an existing class. It creates an "IS-A" relationship (e.g., a `Dog` IS-A `Animal`). *(Covered in Section 3)*
+4. **Polymorphism (Many Forms):** The ability of different objects to respond to the exact same function call in their own unique way. (e.g., calling `draw()` on a `Circle` draws a circle, but calling `draw()` on a `Square` draws a square). *(Covered in Section 4)*
+
+---
+
 ## Section 1: Classes, Objects, Access Modifiers, and Encapsulation
 
 ### Topic 01: Classes and Objects
