@@ -1,4 +1,4 @@
-# Unit 1: Clean Coding, Object Oriented Principles & Machine Coding
+ Clean Coding, Object Oriented Principles & Machine Coding
 
 Welcome to the foundation of Low-Level Design (LLD). This module focuses on writing clean, scalable, and modular code by deeply understanding Object-Oriented Principles, SOLID principles, and various Design Patterns. The ultimate goal is to prepare for machine coding rounds by solving real-world LLD case studies.
 
