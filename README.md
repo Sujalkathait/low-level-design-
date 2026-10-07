@@ -25,12 +25,12 @@ When you get a problem in an interview (like "Design an ATM" or "Design a Parkin
 ### 📊 The LLD Thought Process (Diagram)
 ```mermaid
 flowchart TD
-    A[Read Requirements] --> B[Find Nouns (Objects)]
-    B --> C[Find Verbs (Methods)]
-    C --> D[Draw UML Class Diagram]
-    D --> E[Apply SOLID Principles]
-    E --> F[Refactor with Design Patterns]
-    F --> G[Write Clean C++ Code]
+    A["Read Requirements"] --> B["Find Nouns (Objects)"]
+    B --> C["Find Verbs (Methods)"]
+    C --> D["Draw UML Class Diagram"]
+    D --> E["Apply SOLID Principles"]
+    E --> F["Refactor with Design Patterns"]
+    F --> G["Write Clean C++ Code"]
 ```
 
 ---
