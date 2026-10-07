@@ -1,0 +1,86 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# CMake build directories & cache files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+build/
+build-*/
+cmake-build-*/
+out/
+bin/
+
+# Visual Studio / MSVC files
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.user
+*.opendb
+*.db
+
+# CLion & JetBrains IDE
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# LLVM / Clang
+.clang-tidy
+.clang-format-cache
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Crash dumps & logs
+*.log
+*.dmp
+core
